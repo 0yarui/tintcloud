@@ -198,7 +198,13 @@ button[aria-label="Reproducir"] {
 [class*="MuiChip-colorSecondary"] .MuiTypography-root,
 .MuiTypography-body a[href^="https://soundcloud.com/"],
 .MuiTypography-body a[href^="/"] {
-  color: var(--tc-accent-soft) !important;
+  color: var(--tc-accent) !important;
+}
+
+/* the blue used for links in the newer pages (comment times, mentions, fan lists) */
+html,
+body {
+  --mui-palette-link-main: var(--tc-accent) !important;
 }
 
 /* ---------- artist panel ---------- */
