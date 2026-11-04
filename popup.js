@@ -1,5 +1,5 @@
 const DEFAULT_ACCENT = "#8c31ed";
-const REPO_URL = "https://github.com/jisuun0/tintcloud";
+const REPO_URL = "https://github.com/0yarui/tintcloud";
 
 const state = { h: 270, s: 0.79, v: 0.93 };
 

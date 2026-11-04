@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "TintCloud - Color theme for SoundCloud",
-  "version": "1.3.1",
+  "version": "1.3.3",
   "description": "Dark theme with a customizable accent color for SoundCloud",
   "icons": {
     "48": "icons/icon-48.png",
